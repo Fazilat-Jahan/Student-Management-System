@@ -1,0 +1,27 @@
+{
+  "name": "it-hub-student-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fazilat Jahan",
+  "keywords": [
+    "typescript",
+    "javascript",
+    "nodejs",
+    "inquirer",
+    "chalk"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  }
+}
